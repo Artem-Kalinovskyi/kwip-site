@@ -64,4 +64,4 @@ We may update this policy when the game changes, for example when new features a
 
 ## 10. Contact
 
-If you have any questions about this policy or your data, contact: [TODO: contact email for the game]
+If you have any questions about this policy or your data, contact: artem.kalinovskyy@gmail.com
